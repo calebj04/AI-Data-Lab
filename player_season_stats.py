@@ -1,7 +1,15 @@
 import pandas as pd
+# import torch
+# import torch.nn as nn
+# import torch.optim as optim
+# from sklearn.model_selection import train_test_split
+# from sklearn.preprocessing import StandardScaler
 
 # Read the data
 df = pd.read_csv('data/nfl_kick_attempts.csv')
+
+# Clean player names by removing spaces
+df['kicker_player_name'] = df['kicker_player_name'].str.replace(" ", "")
 
 # Select relevant columns
 kicker_seasons = df[["kicker_player_id", "kicker_player_name", "season"]]

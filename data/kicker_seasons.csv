@@ -16,10 +16,9 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0000108,D.Akers,2013,67
 00-0000282,M.Andersen,1999,55
 00-0000282,M.Andersen,2000,54
-00-0000282,M. Andersen,2001,49
-00-0000282,M.Andersen,2001,9
-00-0000282,M. Andersen,2002,77
-00-0000282,M. Andersen,2003,79
+00-0000282,M.Andersen,2001,58
+00-0000282,M.Andersen,2002,77
+00-0000282,M.Andersen,2003,79
 00-0000282,M.Andersen,2004,67
 00-0000282,M.Andersen,2006,50
 00-0000282,M.Andersen,2007,52
@@ -67,9 +66,8 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0002975,S.Christie,1999,67
 00-0002975,S.Christie,2000,63
 00-0002975,S.Christie,2001,17
-00-0002975,S. Christie,2002,8
-00-0002975,S.Christie,2002,54
-00-0002975,S. Christie,2003,56
+00-0002975,S.Christie,2002,62
+00-0002975,S.Christie,2003,56
 00-0002975,S.Christie,2004,61
 00-0003395,B.Conway,1999,82
 00-0003395,B.Conway,2000,14
@@ -89,8 +87,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0004091,P.Dawson,2000,34
 00-0004091,P.Dawson,2001,55
 00-0004091,P.Dawson,2002,63
-00-0004091,P. Dawson,2003,17
-00-0004091,P.Dawson,2003,25
+00-0004091,P.Dawson,2003,42
 00-0004091,P.Dawson,2004,57
 00-0004091,P.Dawson,2005,50
 00-0004091,P.Dawson,2006,54
@@ -106,15 +103,13 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0004091,P.Dawson,2016,55
 00-0004091,P.Dawson,2017,66
 00-0004091,P.Dawson,2018,23
-00-0004147,A.Del Greco,1999,68
-00-0004147,A.Del Greco,2000,71
+00-0004147,A.DelGreco,1999,68
+00-0004147,A.DelGreco,2000,71
 00-0004811,J.Elam,1999,65
 00-0004811,J.Elam,2000,73
 00-0004811,J.Elam,2001,67
-00-0004811,J. Elam,2002,40
-00-0004811,J.Elam,2002,39
-00-0004811,J. Elam,2003,13
-00-0004811,J.Elam,2003,57
+00-0004811,J.Elam,2002,79
+00-0004811,J.Elam,2003,70
 00-0004811,J.Elam,2004,76
 00-0004811,J.Elam,2005,76
 00-0004811,J.Elam,2006,63
@@ -147,8 +142,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0006800,J.Hanson,2000,59
 00-0006800,J.Hanson,2001,53
 00-0006800,J.Hanson,2002,59
-00-0006800,J. Hanson,2003,11
-00-0006800,J.Hanson,2003,39
+00-0006800,J.Hanson,2003,50
 00-0006800,J.Hanson,2004,56
 00-0006800,J.Hanson,2005,51
 00-0006800,J.Hanson,2006,63
@@ -164,14 +158,13 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0007622,M.Hollis,1999,75
 00-0007622,M.Hollis,2000,59
 00-0007622,M.Hollis,2001,59
-00-0007622,M. Hollis,2002,17
-00-0007622,M.Hollis,2002,56
+00-0007622,M.Hollis,2002,73
 00-0007655,J.Holmes,1999,2
 00-0007655,J.Holmes,2000,5
 00-0007655,J.Holmes,2001,1
 00-0007983,M.Husted,1999,61
 00-0007983,M.Husted,2000,17
-00-0007983,M. Husted,2002,4
+00-0007983,M.Husted,2002,4
 00-0008080,C.Jacke,1999,53
 00-0008231,J.Jaeger,1999,15
 00-0008593,N.Johnson,1999,47
@@ -204,8 +197,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0010373,O.Mare,1999,73
 00-0010373,O.Mare,2000,61
 00-0010373,O.Mare,2001,61
-00-0010373,O. Mare,2002,56
-00-0010373,O.Mare,2002,18
+00-0010373,O.Mare,2002,74
 00-0010373,O.Mare,2003,63
 00-0010373,O.Mare,2004,34
 00-0010373,O.Mare,2005,63
@@ -233,7 +225,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0012742,D.Pelfrey,1999,54
 00-0012875,T.Peterson,1999,72
 00-0012875,T.Peterson,2000,45
-00-0012875,T. Peterson,2001,63
+00-0012875,T.Peterson,2001,63
 00-0012875,T.Peterson,2002,47
 00-0012875,T.Peterson,2003,38
 00-0012875,T.Peterson,2004,45
@@ -290,7 +282,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0017693,J.Wilkins,1999,87
 00-0017693,J.Wilkins,2000,55
 00-0017693,J.Wilkins,2001,87
-00-0017693,J. Wilkins,2002,62
+00-0017693,J.Wilkins,2002,62
 00-0017693,J.Wilkins,2003,88
 00-0017693,J.Wilkins,2004,56
 00-0017693,J.Wilkins,2005,67
@@ -306,8 +298,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0019310,R.Lindell,2000,42
 00-0019310,R.Lindell,2001,65
 00-0019310,R.Lindell,2002,67
-00-0019310,R. Lindell,2003,4
-00-0019310,R.Lindell,2003,44
+00-0019310,R.Lindell,2003,48
 00-0019310,R.Lindell,2004,73
 00-0019310,R.Lindell,2005,61
 00-0019310,R.Lindell,2006,58
@@ -322,10 +313,9 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0019343,J.Hilbert,2002,5
 00-0019440,K.Heppner,2000,32
 00-0019490,P.Edinger,2000,48
-00-0019490,P. Edinger,2001,65
+00-0019490,P.Edinger,2001,65
 00-0019490,P.Edinger,2002,57
-00-0019490,P. Edinger,2003,2
-00-0019490,P.Edinger,2003,60
+00-0019490,P.Edinger,2003,62
 00-0019490,P.Edinger,2004,46
 00-0019490,P.Edinger,2005,65
 00-0019536,S.Graham,2001,15
@@ -345,11 +335,9 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0019536,S.Graham,2015,21
 00-0019542,J.Tuthill,2002,37
 00-0019646,S.Janikowski,2000,78
-00-0019646,S. Janikowski,2001,70
-00-0019646,S. Janikowski,2002,47
-00-0019646,S.Janikowski,2002,36
-00-0019646,S. Janikowski,2003,14
-00-0019646,S.Janikowski,2003,40
+00-0019646,S.Janikowski,2001,70
+00-0019646,S.Janikowski,2002,83
+00-0019646,S.Janikowski,2003,54
 00-0019646,S.Janikowski,2004,60
 00-0019646,S.Janikowski,2005,60
 00-0019646,S.Janikowski,2006,41
@@ -402,8 +390,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0019778,L.Tynes,2011,67
 00-0019778,L.Tynes,2012,85
 00-0020296,B.Gramatica,2001,45
-00-0020296,B. Gramatica,2002,13
-00-0020296,B.Gramatica,2002,37
+00-0020296,B.Gramatica,2002,50
 00-0020296,B.Gramatica,2003,10
 00-0020296,B.Gramatica,2004,4
 00-0020379,O.Pochman,2001,2
@@ -430,8 +417,7 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0020677,T.France,2005,15
 00-0020685,J.Jenkins,2002,1
 00-0020737,J.Reed,2002,30
-00-0020737,J. Reed,2003,47
-00-0020737,J.Reed,2003,17
+00-0020737,J.Reed,2003,64
 00-0020737,J.Reed,2004,66
 00-0020737,Je.Reed,2004,7
 00-0020737,J.Reed,2005,74
@@ -461,14 +447,13 @@ kicker_player_id,kicker_player_name,season,kicks_in_season
 00-0020972,B.Cundiff,2013,58
 00-0020972,B.Cundiff,2014,57
 00-0021052,T.Duncan,2003,16
-00-0021080,A. Elling,2003,73
+00-0021080,A.Elling,2003,73
 00-0021080,A.Elling,2004,4
 00-0021080,A.Elling,2005,1
 00-0021226,J.Chandler,2002,26
 00-0021226,J.Chandler,2003,15
 00-0021226,J.Chandler,2004,22
-00-0021347,H. Epstein,2002,18
-00-0021347,H.Epstein,2002,4
+00-0021347,H.Epstein,2002,22
 00-0021389,O.Kimrin,2004,16
 00-0021462,S.Marler,2003,63
 00-0021940,J.Brown,2003,78
