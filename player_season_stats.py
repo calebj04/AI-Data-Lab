@@ -1,11 +1,7 @@
 import pandas as pd
-import numpy as np
 
 # Read the data
 df = pd.read_csv('data/nfl_kick_attempts.csv')
-
-# Clean up names
-df["kicker_player_name"] = df["kicker_player_name"].str.replace(r"\s*\.\s*", ".", regex=True)
 
 # Select relevant columns
 kicker_seasons = df[["kicker_player_id", "kicker_player_name", "season"]]
