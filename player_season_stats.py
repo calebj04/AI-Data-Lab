@@ -8,6 +8,8 @@ import pandas as pd
 # Read the data
 df = pd.read_csv('data/nfl_kick_attempts.csv')
 
+pd.Series(df['kicker_player_name'].unique()).to_csv('data/kicker_names.csv', index=False)
+
 # Clean player names by removing spaces
 df['kicker_player_name'] = df['kicker_player_name'].str.replace(" ", "")
 
@@ -25,5 +27,15 @@ kicker_season_counts = (
 # Sort by player and season
 kicker_season_counts.sort_values(by=["kicker_player_id", "season"], inplace=True)
 
+career_lengths = kicker_season_counts.groupby("kicker_player_id")["season"].nunique()
+
+# Add this info back to df
+kicker_season_counts["career_length"] = kicker_season_counts["kicker_player_id"].map(career_lengths)
+
+# Label target: lasted more than 5 seasons
+kicker_season_counts["lasted_5plus"] = (kicker_season_counts["career_length"] > 5).astype(int)
+
 # Save to CSV
 kicker_season_counts.to_csv('data/kicker_seasons.csv', index=False)
+
+
