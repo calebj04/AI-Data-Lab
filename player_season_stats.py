@@ -8,10 +8,12 @@ import pandas as pd
 # Read the data
 df = pd.read_csv('data/nfl_kick_attempts.csv')
 
-pd.Series(df['kicker_player_name'].unique()).to_csv('data/kicker_names.csv', index=False)
-
 # Clean player names by removing spaces
 df['kicker_player_name'] = df['kicker_player_name'].str.replace(" ", "")
+
+df.sort_values(by=['kicker_player_name'], inplace=True)
+
+pd.Series(df['kicker_player_name'].unique()).to_csv('data/kicker_names.csv', index=False)
 
 # Select relevant columns
 kicker_seasons = df[["kicker_player_id", "kicker_player_name", "season"]]
